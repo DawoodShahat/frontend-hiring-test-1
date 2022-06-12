@@ -1,0 +1,14 @@
+.input-container {
+  background-color: #FFFFFF;
+  border: 1px solid #E6E8EC;
+  border-radius: 6px;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.05);
+ width: 350px;
+  padding: 0 1rem;
+  height: 48px;
+
+  &:focus {
+    outline: 0;
+    border: 2px solid #31375A;
+  }
+}

@@ -1,0 +1,17 @@
+.call-view {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(213, 220, 230, 0.33);
+  border-radius: 12px;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+
+  p {
+    display: flex;
+    gap: 8px;
+
+    .label {
+      color:#31375A;
+      font-weight: bold;
+    }
+  }
+}
